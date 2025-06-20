@@ -8,13 +8,13 @@ Todos os códigos foram criados utilizando **Python** no **Visual Studio Code** 
 
 ## 📚 Visão Geral dos Desafios
 
-| Desafio | Enunciado (.md) | Código (.py) | Execução (print) |
+| Desafio | Desafios (.md) | Código (.py) | Execução (print) |
 |--------|------------------|--------------|------------------|
-| 💰 Variáveis em Ação | [variaveis_em_acao.md](./variaveis_em_acao.md) | [codigo_python_equilibrando_saldo.py](./codigo_python_equilibrando_saldo.py) | <a href="./imagens/variaveis_em_acao.png" target="_blank"><img src="./imagens/variaveis_em_acao.png" width="120"/></a> |
-| 🏦 O Grande Depósito | [grande_deposito.md](./grande_deposito.md) | [codigo_solucionando_problemas_bancarios.py](./codigo_solucionando_problemas_bancarios.py) | <a href="./imagens/grande_deposito.png" target="_blank"><img src="./imagens/grande_deposito.png" width="120"/></a> |
-| 📈 Juros Compostos | [juros_compostos.md](./juros_compostos.md) | [codigo_juros_compostos.py](./codigo_juros_compostos.py) | <a href="./imagens/juros_compostos.png" target="_blank"><img src="./imagens/juros_compostos.png" width="120"/></a> |
-| 📊 Organizar Ativos | [organizar_ativos.md](./organizar_ativos.md) | [codigo_organizando_ativos.py](./codigo_organizando_ativos.py) | <a href="./imagens/organizar_ativos.png" target="_blank"><img src="./imagens/organizar_ativos.png" width="120"/></a> |
-| 💸 Saque Condicional | [saque_condicional.md](./saque_condicional.md) | [codigo_saque_condicional.py](./codigo_saque_condicional.py) | <a href="./imagens/saque_condicional.png" target="_blank"><img src="./imagens/saque_condicional.png" width="120"/></a> |
+| 💰 Variáveis em Ação | [Desafio - Variáveis em Ação](./variaveis_em_acao_equilibrando_saldo.md) | [Código - Variáveis em Ação](./codigo_python_equilibrando_saldo.py) | <a href="./imagens/variaveis_em_acao.png" target="_blank"><img src="./imagens/variaveis_em_acao.png" width="120"/></a> |
+| 🏦 O Grande Depósito | [Desafio - O Grande Depósito](./grande_deposito_solucionando_problemas_bancarios.md) | [Código - O Grande Depósito](./codigo_python_o_grande_deposito.py) | <a href="./imagens/o_grande_deposito.png" target="_blank"><img src="./imagens/o_grande_deposito.png" width="120"/></a> |
+| 📈 Juros Compostos | [Desafio - Juros Compostos](./juros_compostos.md) | [Código - Juros Compostos](./codigo_python_juros_compostos.py) | <a href="./imagens/juros_compostos.png" target="_blank"><img src="./imagens/juros_compostos.png" width="120"/></a> |
+| 📊 Organizar Ativos | [Desafio - Organizar Ativos](./estrutura_de_dados_organizando_seus_ativos.md) | [Código - Organizar Ativos](./codigo_python_organizando_seus_ativos.py) | <a href="./imagens/estrutura_de_dados_1.png" target="_blank"><img src="./imagens/estrutura_de_dados_1.png" width="120"/></a><br><a href="./imagens/estrutura_de_dados_2.png" target="_blank"><img src="./imagens/estrutura_de_dados_2.png" width="120"/></a> |
+| 💸 Saque Condicional | [Desafio - Saque Condicional](./condicionalmente_rico_tomadas_de_decisao_no_codigo.md) | [Código - Saque Condicional](./codigo_condicionalmente_rico.py) | <a href="./imagens/condicionalmente_rico.png" target="_blank"><img src="./imagens/condicionalmente_rico.png" width="120"/></a> |
 
 ---
 
@@ -52,33 +52,82 @@ python nome_do_arquivo.py
 
 ```bash
 desafios_codigos_python/
-├── imagens/                   ← prints com os códigos e saídas
+├── imagens/                    ← prints com os códigos e saídas
 │   ├── variaveis_em_acao.png
-│   ├── grande_deposito.png
+│   ├── o_grande_deposito.png
 │   ├── juros_compostos.png
-│   ├── organizar_ativos.png
-│   ├── saque_condicional.png
-├── variaveis_em_acao.md
-├── grande_deposito.md
-├── juros_compostos.md
-├── organizar_ativos.md
-├── saque_condicional.md
-├── codigo_python_equilibrando_saldo.py
-├── codigo_solucionando_problemas_bancarios.py
-├── codigo_juros_compostos.py
-├── codigo_organizando_ativos.py
-├── codigo_saque_condicional.py
-├── README.md
+│   ├── estrutura_de_dados_1.png
+│   ├── estrutura_de_dados_2.png
+│   ├── condicionalmente_rico.png
+├── desafios/                   ← arquivos .md com os desafios
+│   ├── variaveis_em_acao_equilibrando_saldo.md
+│   ├── grande_deposito_solucionando_problemas_bancarios.md
+│   ├── juros_compostos.md
+│   ├── estrutura_de_dados_organizando_seus_ativos.md
+│  ├── condicionalmente_rico_tomadas_de_decisao_no_codigo.md
+├── codigos/                    ← arquivos .py com as soluções
+│   ├── codigo_python_equilibrando_saldo.py
+│   ├── codigo_python_o_grande_deposito.py
+│   ├── codigo_python_juros_compostos.py
+│   ├── codigo_python_organizando_seus_ativos.py
+│   ├── codigo_condicionalmente_rico.py
+│   ├── README.md
+
 ```
 
 ## 🖼️ Capturas de Tela
 
 A pasta imagens/ contém os prints dos códigos em execução e os respectivos resultados no terminal. Isso facilita a visualização prática do comportamento dos desafios!
 
-<table> <tr> <td align="center"><strong>💰<br>Variáveis em Ação</strong></td> <td align="center"><strong>🏦<br>O Grande Depósito</strong></td> <td align="center"><strong>📈<br>Juros Compostos</strong></td> </tr> <tr> <td> <a href="./imagens/variaveis_em_acao.png" target="_blank"> <img src="./imagens/variaveis_em_acao.png" width="300"/> </a> </td> <td> <a href="./imagens/grande_deposito.png" target="_blank"> <img src="./imagens/grande_deposito.png" width="300"/> </a> </td> <td> <a href="./imagens/juros_compostos.png" target="_blank"> <img src="./imagens/juros_compostos.png" width="300"/> </a> </td> </tr> <tr> <td align="center"><strong>📊<br>Organizando Ativos</strong></td> <td align="center"><strong>💸<br>Saque Condicional</strong></td> <td align="center"><em>(mais desafios em breve...)</em></td> </tr> <tr> <td> <a href="./imagens/organizar_ativos.png" target="_blank"> <img src="./imagens/organizar_ativos.png" width="300"/> </a> </td> <td> <a href="./imagens/saque_condicional.png" target="_blank"> <img src="./imagens/saque_condicional.png" width="300"/> </a> </td> <td></td> </tr> </table>
+<table>
+  <tr>
+    <td align="center"><strong>💰<br>Variáveis em Ação</strong></td>
+    <td align="center"><strong>🏦<br>O Grande Depósito</strong></td>
+    <td align="center"><strong>📈<br>Juros Compostos</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="./imagens/variaveis_em_acao.png" target="_blank">
+        <img src="./imagens/variaveis_em_acao.png" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="./imagens/o_grande_deposito.png" target="_blank">
+        <img src="./imagens/o_grande_deposito.png" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="./imagens/juros_compostos.png" target="_blank">
+        <img src="./imagens/juros_compostos.png" width="300"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><strong>📊<br>Organizando Ativos</strong></td>
+    <td align="center"><strong>💸<br>Saque Condicional</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div style="white-space: nowrap;">
+        <a href="./imagens/estrutura_de_dados_1.png" target="_blank" style="display: inline-block; margin-right: 10px;">
+          <img src="./imagens/estrutura_de_dados_1.png" width="300"/>
+        </a>
+        <a href="./imagens/estrutura_de_dados_2.png" target="_blank" style="display: inline-block;">
+          <img src="./imagens/estrutura_de_dados_2.png" width="300"/>
+        </a>
+      </div>
+    </td>
+    <td>
+      <a href="./imagens/condicionalmente_rico.png" target="_blank">
+        <img src="./imagens/condicionalmente_rico.png" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
 ## ✍️ Autora
 
-Lidiane 📍 São Paulo, Brasil 💡 Desenvolvedora em formação pelo Bootcamp Santander + DIO
+Lidiane 📍 São Paulo, Brasil 
