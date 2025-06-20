@@ -1,3 +1,5 @@
+# Juros Compostos
+
 def calcular_juros_compostos(valor_inicial, taxa_juros, periodo):
     valor_final = valor_inicial * (1 + taxa_juros) ** periodo
     print(f"Valor final do investimento: R$ {valor_final:.2f}")
