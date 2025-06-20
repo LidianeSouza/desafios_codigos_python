@@ -108,12 +108,12 @@ A pasta imagens/ contém os prints dos códigos em execução e os respectivos r
   </tr>
   <tr>
     <td colspan="2">
-      <div style="white-space: nowrap;">
+      <div style="white-space: nowrap; overflow-x: auto;">
         <a href="./imagens/estrutura_de_dados_1.png" target="_blank" style="display: inline-block; margin-right: 10px;">
-          <img src="./imagens/estrutura_de_dados_1.png" width="300"/>
+          <img src="./imagens/estrutura_de_dados_1.png" width="285"/>
         </a>
         <a href="./imagens/estrutura_de_dados_2.png" target="_blank" style="display: inline-block;">
-          <img src="./imagens/estrutura_de_dados_2.png" width="300"/>
+          <img src="./imagens/estrutura_de_dados_2.png" width="285"/>
         </a>
       </div>
     </td>
@@ -124,7 +124,6 @@ A pasta imagens/ contém os prints dos códigos em execução e os respectivos r
     </td>
   </tr>
 </table>
-
 
 ---
 
