@@ -16,6 +16,8 @@ Todos os códigos foram criados utilizando **Python** no **Visual Studio Code** 
 | 📊 Organizar Ativos     | [Desafio - Organizar Ativos](./desafios/estrutura_de_dados_organizando_seus_ativos.md)           | [Código - Organizar Ativos](./codigos/codigo_python_organizando_seus_ativos.py)                | <a href="./imagens/estrutura_de_dados_1.png" target="_blank"><img src="./imagens/estrutura_de_dados_1.png" width="120"/></a><br><a href="./imagens/estrutura_de_dados_2.png" target="_blank"><img src="./imagens/estrutura_de_dados_2.png" width="120"/></a> |
 | 💸 Saque Condicional    | [Desafio - Saque Condicional](./desafios/condicionalmente_rico_tomadas_de_decisao_no_codigo.md)  | [Código - Saque Condicional](./codigos/codigo_python_condicionalmente_rico.py)                        | <a href="./imagens/condicionalmente_rico.png" target="_blank"><img src="./imagens/condicionalmente_rico.png" width="120"/></a>                      |
 
+📸 *Clique nas miniaturas na coluna “Execução” para visualizar as imagens em tamanho maior.*
+
 ---
 
 ## 🛠️ Tecnologias utilizadas
