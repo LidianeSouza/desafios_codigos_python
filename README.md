@@ -1,4 +1,4 @@
-# 💻 desafios_codigos_python
+# 💻 Desafios de Códigos - Python
 
 Este repositório contém os desafios resolvidos por mim durante o **Bootcamp Ciência de Dados com Python - Santander**, promovido pela [Digital Innovation One (DIO)](https://www.dio.me/).  
 
