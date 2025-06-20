@@ -1,3 +1,5 @@
+# Variáveis em Ação
+
 # Entrada de dados do usuário
 saldoAtual = float(input("Digite o saldo atual: "))
 valorDeposito = float(input("Digite o valor do depósito: "))
