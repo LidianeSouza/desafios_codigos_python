@@ -1,3 +1,5 @@
+# Condicionalmente Rico
+
 # Solicita os dados do usuário
 saldoTotal = int(input("Digite o saldo da conta: "))
 valorSaque = int(input("Digite o valor do saque: "))
