@@ -14,7 +14,7 @@ Todos os códigos foram criados utilizando **Python** no **Visual Studio Code** 
 | 🏦 O Grande Depósito     | [Desafio - O Grande Depósito](./desafios/grande_deposito_solucionando_problemas_bancarios.md)     | [Código - O Grande Depósito](./codigos/codigo_python_o_grande_deposito.py)                      | <a href="./imagens/o_grande_deposito.png" target="_blank"><img src="./imagens/o_grande_deposito.png" width="120"/></a>                              |
 | 📈 Juros Compostos      | [Desafio - Juros Compostos](./desafios/juros_compostos.md)                                        | [Código - Juros Compostos](./codigos/codigo_python_juros_compostos.py)                          | <a href="./imagens/juros_compostos.png" target="_blank"><img src="./imagens/juros_compostos.png" width="120"/></a>                                  |
 | 📊 Organizar Ativos     | [Desafio - Organizar Ativos](./desafios/estrutura_de_dados_organizando_seus_ativos.md)           | [Código - Organizar Ativos](./codigos/codigo_python_organizando_seus_ativos.py)                | <a href="./imagens/estrutura_de_dados_1.png" target="_blank"><img src="./imagens/estrutura_de_dados_1.png" width="120"/></a><br><a href="./imagens/estrutura_de_dados_2.png" target="_blank"><img src="./imagens/estrutura_de_dados_2.png" width="120"/></a> |
-| 💸 Saque Condicional    | [Desafio - Saque Condicional](./desafios/condicionalmente_rico_tomadas_de_decisao_no_codigo.md)  | [Código - Saque Condicional](./codigos/codigo_condicionalmente_rico.py)                        | <a href="./imagens/condicionalmente_rico.png" target="_blank"><img src="./imagens/condicionalmente_rico.png" width="120"/></a>                      |
+| 💸 Saque Condicional    | [Desafio - Saque Condicional](./desafios/condicionalmente_rico_tomadas_de_decisao_no_codigo.md)  | [Código - Saque Condicional](./codigos/codigo_python_condicionalmente_rico.py)                        | <a href="./imagens/condicionalmente_rico.png" target="_blank"><img src="./imagens/condicionalmente_rico.png" width="120"/></a>                      |
 
 ---
 
@@ -70,7 +70,7 @@ desafios_codigos_python/
 │   ├── codigo_python_o_grande_deposito.py
 │   ├── codigo_python_juros_compostos.py
 │   ├── codigo_python_organizando_seus_ativos.py
-│   ├── codigo_condicionalmente_rico.py
+│   ├── codigo_python_condicionalmente_rico.py
 │   ├── README.md
 
 ```
