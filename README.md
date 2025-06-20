@@ -31,7 +31,7 @@ Todos os códigos foram criados utilizando **Python** no **Visual Studio Code** 
 1. Clone o repositório para sua máquina:
 
 ```bash
-git clone https://github.com/seu-usuario/desafios_codigos_python.git
+git clone https://github.com/LidianeSouza/desafios_codigos_python.git
 ```
 
 2. Navegue até a pasta:
@@ -43,7 +43,8 @@ cd desafios_codigos_python
 3. Execute o desafio desejado:
 
 ```bash
-python nome_do_arquivo.py
+python nome_do_arquivo.py # Exemplo: python codigo_python_equilibrando_saldo.py
+
 ```
 
 ---
@@ -71,7 +72,7 @@ desafios_codigos_python/
 │   ├── codigo_python_juros_compostos.py
 │   ├── codigo_python_organizando_seus_ativos.py
 │   ├── codigo_python_condicionalmente_rico.py
-│   ├── README.md
+├── README.md
 
 ```
 
@@ -110,10 +111,10 @@ A pasta imagens/ contém os prints dos códigos em execução e os respectivos r
     <td colspan="2">
       <div style="white-space: nowrap; overflow-x: auto;">
         <a href="./imagens/estrutura_de_dados_1.png" target="_blank" style="display: inline-block; margin-right: 10px;">
-          <img src="./imagens/estrutura_de_dados_1.png" width="285"/>
+          <img src="./imagens/estrutura_de_dados_1.png" width="300"/>
         </a>
         <a href="./imagens/estrutura_de_dados_2.png" target="_blank" style="display: inline-block;">
-          <img src="./imagens/estrutura_de_dados_2.png" width="285"/>
+          <img src="./imagens/estrutura_de_dados_2.png" width="300"/>
         </a>
       </div>
     </td>
